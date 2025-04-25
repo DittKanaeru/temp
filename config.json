@@ -1,0 +1,22 @@
+{
+  "name": "Dixie",
+  "owner": "6285950723074",
+  "namebot": "Amicy Yukio",
+  "sessions": "session",
+  "database": "ami",
+  "cover": "https://files.catbox.moe/9q1e3v.png",
+  "url": "https://whatsapp.com/channel/S5V3gvWSebO39V2X",
+  "official": "12036329@g.us",
+  "saluran": "120363287432251241@newsletter",
+  "limit": 40,
+  "max_upload": 100,
+  "max_upload_free": 30,
+  "timeout": 180000,
+  "min_reward": 50,
+  "max_reward": 200,
+  "pairing": {
+    "state": true,
+    "numberbot": 6285784738416
+  },
+  "footer": "© Amicy Yukio"
+}
